@@ -1,0 +1,7 @@
+{
+    "fee": 2,
+    "channel-naming-convention": "trade-[c]-[d]", "_": "Use [c] for creator and [d] for other person(Ignore this field, it's a place holder) the fee value above is in percent, so 2 would be a 2% fee",
+    "username": "Litecoin Wallet Username Goes Here",
+    "password": "Litecoin Wallet Password Goes Here",
+    "TOKEN": "TOKEN GOES HERE"
+}
