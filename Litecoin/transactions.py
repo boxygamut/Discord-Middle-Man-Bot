@@ -1,7 +1,6 @@
 import requests
 import time
 import json
-from decimal import Decimal
 import qrcode
 import os
 from io import BytesIO
